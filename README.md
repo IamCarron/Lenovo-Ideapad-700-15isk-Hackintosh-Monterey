@@ -18,4 +18,4 @@ Not working.
  - AUX
  - HDMI
  - SD Card Reader
-![enter image description here](https://preview.redd.it/lvdpc76gur581.png?width=1920&format=png&auto=webp&s=544ccdfbdb696f2fe88531343db9e4005a9cc6e5)
+![enter image description here](https://preview.redd.it/gsizsqkgwr581.png?width=1920&format=png&auto=webp&s=d8f4ed8ed7f1ec6427a25e87044766969ec159ab)
