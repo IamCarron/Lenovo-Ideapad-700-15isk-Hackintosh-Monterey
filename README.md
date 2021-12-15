@@ -20,4 +20,5 @@ Not working.
  - AUX
  - HDMI
  - SD Card Reader
+ 
 ![enter image description here](https://preview.redd.it/gsizsqkgwr581.png?width=1920&format=png&auto=webp&s=d8f4ed8ed7f1ec6427a25e87044766969ec159ab)
