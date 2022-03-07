@@ -1,7 +1,7 @@
 # Lenovo-Ideapad-700-15isk-Hackintosh-Monterey
 This repository contains the files to run Mac OS Monterey on the Lenovo Lenovo Ideapad 700 15isk
 
-**Remember Update Kexts and Opencore this efi folder has OpenCore 0.7.6**
+**Remember Update Kexts and Opencore. This efi folder has OpenCore 0.7.6**
 
 What's Working?
  -
